@@ -1,7 +1,4 @@
-# 1f151e50-6931-4d90-8b8e-ae724fa171c3-cefef302-df98-4a92-ac58-03c011301e9e
-https://sonar.server.examly.io/dashboard?id=iamneo-production-2_1f151e50-6931-4d90-8b8e-ae724fa171c3-cefef302-df98-4a92-ac58-03c011301e9e&codeScope=overall
 
----
 
 <div align="center">
 
